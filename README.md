@@ -3,4 +3,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ## Clases
 ### Tema 1
-* Clase 1 (18/9/2023):  Presentación y conceptos de algoritmo y visión información de programación en python.
+* [Clase 1 (18/9/2023)](clases/clase01/clase01.md):  Presentación y conceptos de algoritmo y visión información de programación en python.
