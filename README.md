@@ -8,3 +8,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 2
 * [Clase 2 (19/09)](clases/clase02/clase02.md): Conceptos básicos: variables, tipos, identificadores y tipos. Operaciones básicas en python: `print`, conversión de tipos, expresiones matemáticas.
 * [Clase 3 (20/09)](clases/clase03/clase03.md): Seguimos viendo conceptos básicos como comentarios, bibliotecas (módulos) y cómo leer de teclado `input`. Hacemos ejercicios sobre estos conceptos.
+* Clase 4 (21/09): Operaciones sobre `str` y acceso a los letras individuales o a subcadenas.
+
+### Tema 3
+* Clase 4 (21/09): Condiciones lógicas. Ejercicios. Introducción a las sentencias de selección.
