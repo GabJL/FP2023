@@ -285,3 +285,22 @@ elif año < 2011:
 else:
     print("Generación T (táctil)")
 ```
+
+## Ejercicio 8: Días por año:
+
+*Realice un programa que lea el nombre de un mes (entero en minúsculas) y nos día la cantidad de días que tiene ese mes.*
+
+Aunque podríamos hacer un if con 12 casos, realmente hay 3 posibles valores resultantes válidos y podemos agrupar las condiciones. También es recomendable usar primero las condiciones más cortas y dejar para el `else` la más larga ya que no hay que ponerla.
+
+```python
+mes: str = input("Dime el mes ")
+
+if mes == "febrero":
+    dias = 28
+elif mes == "abril" or mes == "junio" or mes == "septiembre" or mes == "noviembre":
+    dias = 30
+else:
+    dias = 31
+
+print("El mes", mes, "tiene", dias, "días")
+```
