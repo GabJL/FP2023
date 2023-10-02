@@ -1,4 +1,4 @@
-# Clase 6 (18 de octubre de 2021)
+# Clase 6 (2 de octubre de 2023)
 
 En esta clase se repasó la parte de condiciones, sentencias de selección y se empezó a trabajar con sentencias de repetición.
 
