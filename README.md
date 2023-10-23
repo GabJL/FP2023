@@ -20,7 +20,8 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 10 (18/10)](clases/clase10/clase10_3.md): Un par de ejercicios de repaso de bucles.
 
 ### Tema 4
-* [Clase 10 (18/10)](clases/clase10/clase10_4.md): Introducción a los subprogramas.  Creación de funciones y procedimientos. Ejercicios.
+* [Clase 10 (18/10)](clases/clase10/clase10_4.md): Introducción a los subprogramas.  Creación de funciones. Ejercicios.
+* [Clase 11 (23/10)](clases/clase11/clase11.md): Procedimientos. Ejercicios.
   
 ## Prácticas
 * [Práctica 1](prácticas/practica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
