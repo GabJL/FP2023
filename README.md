@@ -22,6 +22,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 4
 * [Clase 10 (18/10)](clases/clase10/clase10_4.md): Introducción a los subprogramas.  Creación de funciones. Ejercicios.
 * [Clase 11 (23/10)](clases/clase11/clase11.md): Procedimientos. Ejercicios.
+* [Clase 12 (25/10)](clases/clase12/clase12.md): Funciones que devuelven múltiples parámetros. Diseño de Funciones. Repaso (ejercicios de parciales).
   
 ## Prácticas
 * [Práctica 1](prácticas/practica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
