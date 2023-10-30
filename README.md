@@ -22,9 +22,10 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 4
 * [Clase 10 (18/10)](clases/clase10/clase10_4.md): Introducción a los subprogramas.  Creación de funciones. Ejercicios.
 * [Clase 11 (23/10)](clases/clase11/clase11.md): Procedimientos. Ejercicios.
-* [Clase 12 (25/10)](clases/clase12/clase12.md): Funciones que devuelven múltiples parámetros. Diseño de Funciones. Repaso (ejercicios de parciales).
+* [Clase 12 (25/10)](clases/clase12/clase12.md): Funciones que devuelven múltiples parámetros. Diseño de Funciones.
 
 ### Repaso
+* [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
 * [Clases Repaso T1-3 (30/10)](clases/repaso/repaso1.md): Ejercicios de parciales previos de los temas 1-3.
   
 ## Prácticas
