@@ -26,7 +26,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
-* [Clases Repaso T1-3 (30/10)](clases/repaso/repaso1.md): Ejercicios de parciales previos de los temas 1-3.
+* [Clase Repaso T1-3 (30/10)](clases/repaso/repaso1.md): Ejercicios de parciales previos de los temas 1-3.
   
 ## Prácticas
 * [Práctica 1](prácticas/practica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
