@@ -24,6 +24,9 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 11 (23/10)](clases/clase11/clase11.md): Procedimientos. Ejercicios.
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Funciones que devuelven múltiples parámetros. Diseño de Funciones.
 
+### Clase 5:
+* [Clase 13 (06/11)](): Introducción al conceptos de listas. Creación y recorridos.
+
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
 * [Clase Repaso T1-3 (30/10)](clases/repaso/repaso1.md): Ejercicios de parciales previos de los temas 1-3.
