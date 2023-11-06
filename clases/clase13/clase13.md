@@ -60,6 +60,11 @@ def suma_lista(l: list) -> int:
     res += v
   return res
 
+def escribir_pos_positivos(l: list) -> None:
+  for pos in range(len(l)):
+    if l[pos] > 0:
+      print(pos)
+
 # --------------- PRINCIPAL ---------------
 lista:list = [10, 6, 8, -5, 3, 2, 24, -12, 10, 1]
 
