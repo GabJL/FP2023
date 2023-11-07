@@ -23,21 +23,87 @@ print("El menor de la lista es", menor(lista))
 *Codifique una función que devuelva la posición que ocupa el menor valor de una lista*
 
 ```python
-def posición_menor(l: list):
-    pos_menor: int = 0
-    for i in range(len(l)):
-        if l[i] < l[pos_menor]:
-            pos_menor = i
-    return pos_menor
+def pos_mayor(l: list) -> int:
+    max=mayor(l)
+    for indice in range(len(l)):
+        if l[indice]==max:
+            posicion_mayor = indice
+    return posicion_mayor
+
+def pos_mayor2(l: list) -> int:
+    mayor:int = l[0]
+    posicion = 0
+    pos_final = 0
+    for valor in l[1:]:
+        posicion += 1
+        if valor>mayor:
+            mayor = valor
+            pos_final = posicion
+    
+    return pos_final
+
+def pos_mayor3(l: list) -> int:
+    mayor: int = l[0]
+    pos_mayor: int = 0
+    for posicion in range(1, len(l)):
+        if l[posicion] > mayor:
+            mayor = l[posicion]
+            pos_mayor = posicion
+    return pos_mayor
+
+def pos_mayor4(l: list) -> int:
+    pos_mayor: int = 0
+    for posicion in range(1, len(l)):
+        if l[posicion] > l[pos_mayor]:
+            pos_mayor = posicion
+    return pos_mayor
+
 
 # --------------- PRINCIPAL ---------------
 lista: list = [10, 6, 8, -5, 3, 2, 24, -12, 10, 1]
 
-m = posición_menor(lista)
+m = pos_mayor4(lista)
 print("El menor de la lista es", lista[m], "y está en la posicion", m)
 ```
 
+## Ejercicio recorridos (IV): Buscar
 
+*Dada una lista y un valor, realice una función que nos diga la posición donde está ese valor en la lista y si no está devuelva -1*
+
+```python
+# --------- FUNCIONES -------------
+def buscar(l: list, x: int) -> int:
+    pos = -1
+    buscador = 0
+    while pos == -1 and buscador < len(l):
+        if l[buscador] == x:
+            pos = buscador
+        buscador += 1
+    return pos
+    
+def buscar2(l: list, x: int) -> int:
+    posicion = 0
+    while posicion < len(l) and not (l[posicion] == x):
+        posicion += 1
+        
+    if posicion < len(l):
+        return posicion
+    else:
+        return -1  
+
+# --------- PROGRAMA PRINCIAL -------------
+
+l1: list = [1, 2, 3, 4]
+l2: list = [5, 3, -1, 0]
+l3: list = [5, 7, 3, -1, 8, 3, 4]
+l4: list = [-3]
+
+print(buscar(l3, 5))
+print(buscar(l3, 4))
+print(buscar(l3, -1))
+print(buscar(l3, 10))
+print(buscar(l3, -7))
+```
 ## Ejercicio corto (I): Leer
 
 *Función que lea 10 valores y los meta en una lista*
