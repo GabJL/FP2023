@@ -19,7 +19,7 @@ lista: list = [10, 6, 8, -5, 3, 2, 24, -12, 10, 1]
 print("El menor de la lista es", menor(lista))
 ```
 
-## Ejercicio de recorridos (III): Posición del menor
+## Ejercicio de recorridos (III): Posición del mayor
 *Codifique una función que devuelva la posición que ocupa el menor valor de una lista*
 
 ```python
