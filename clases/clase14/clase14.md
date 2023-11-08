@@ -63,7 +63,7 @@ def pos_mayor4(l: list) -> int:
 lista: list = [10, 6, 8, -5, 3, 2, 24, -12, 10, 1]
 
 m = pos_mayor4(lista)
-print("El menor de la lista es", lista[m], "y está en la posicion", m)
+print("El mayor de la lista es", lista[m], "y está en la posicion", m)
 ```
 
 ## Ejercicio recorridos (IV): Buscar
