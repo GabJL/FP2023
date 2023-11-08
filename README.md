@@ -27,6 +27,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Clase 5:
 * [Clase 13 (06/11)](clases/clase13/clase13.md): Introducción al conceptos de listas. Creación y recorridos.
 * [Clase 14 (07/11)](clases/clase14/clase14.md): Ejercicios de recorridos. Cómo modificar las listas.
+* [Clase 15 (08/11)](clases/clase15/clase15.md): Ejercicios avanzados sobre listas.
 
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
