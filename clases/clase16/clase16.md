@@ -83,7 +83,7 @@ def convertir_fecha_hora(f: str) -> str:
 tiempo: str = "2023-11-13T11:40:05"
 print(f"La hora en otro formato es {convertir_fecha_hora(tiempo)}!")
 ```
-## Ejercicio 8
+## Ejercicio de examen 1
 
 *Lea una línea con las notas de un alumno con el siguiente formato: "alumno: c1 c2 fi". Realice una función que reciba ese texto y nos devuelva dos valores: el nombre del alumno y su nota final (puede usar funciones auxiliares). Para calcular la nota final del alumno, wf = (10 - 0.15*c1 - 0.25*c2)/10 y después sumar todas las notas ponderadas: f*wf + 0.15*c1 + 0.25*c2.*
 
@@ -108,7 +108,7 @@ print(f"El alumno {nombre} obtuno {round(nota,2)} como nota final")
 ```
 
 
-## Ejercicio 9
+## Ejercicio de examen 2
 
 *Función `suma_numeros_encontrados()` que recibe  como parámetro una cadena caracteres con números pero que pueden estar separados por  cualquier otro carácter y devuelve la suma de todos  ellos. Así, por ejemplo, si recibe "Debe 10€ de café y 20€ de la habitación y algo (¿30€?) de propina" devuelve el número 60.*
 
