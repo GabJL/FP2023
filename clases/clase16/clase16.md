@@ -1,10 +1,8 @@
 # Clase 16 (9 de noviembre de 2022)
 
-En esta clase hemos repasado el tipo string. Luego se mostraron algunas operaciones interesantes sobre string, haciendo especial hincapié en `split`
+En esta clase hemos repasado el tipo string. Luego se mostraron algunas operaciones interesantes sobre string, haciendo especial hincapié en `split` (aunque también se vió `join` y los `f-string`).
 
-## Ejercicio corto: De texto a lista
-
-*Hacer una función que separe los números de una cadena como: "3.4 8.21 9.01 -34" y nos devuelva una lista de valores numéricos*
+## Ejemplo de uso de split
 
 ```python
 s: str = "San Sebastián: 23, 12, 13.2, AVE, 30"
@@ -20,7 +18,13 @@ print("Valor de datos: ", datos)
 d: list = datos.split(",")	# Separa por coma
 print(d)
 print(int(d[0]) + int(d[1]))
+```
 
+## Ejercicio corto: De texto a lista
+
+*Hacer una función que separe los números de una cadena como: "3.4 8.21 9.01 -34" y nos devuelva una lista de valores numéricos*
+
+```python
 def pasar_a_numeros(t: str) -> list:
     lista_texto: list = t.split()
     lista_numeros: list = []
@@ -31,7 +35,14 @@ def pasar_a_numeros(t: str) -> list:
     
 texto = "	3.4 8.29 9.01    -34"
 print(pasar_a_numeros(texto))
+```
 
+## Ejercicio corto: Conversor de fechas
+*Hacer una función que separe en los distintos números una fecha dada en formato estándar: "2021-11-22", y devuelva la misma fecha como cadena en formato español: "22/11/2021"*
+
+Incluye varias versiones, una de ellas con `join`.
+
+```python
 def convertir_fecha(f_estandar: str) -> str:
     año, mes, dia = f_estandar.split("-")
     f_español = dia + "/" + mes + "/" + año
@@ -53,7 +64,14 @@ fecha = "2023-11-13"
 print("En formato español sería:", convertir_fecha(fecha))
 print("En formato español sería:", convertir_fecha2(fecha))
 print("En formato español sería:", convertir_fecha3(fecha))
+```
 
+## Ejercicio corto: Conversor de fechas-hora
+*Dada la fecha hora con formato estándar así: "2021-11-22T12:30:01" devolver la cadena: "22/11/2021 12h 30m 01s"*
+
+Incluye una versión con `f-string`.
+
+```python
 def convertir_fecha_hora(f: str) -> str:
     fecha, hora = f.split("T")
     año, mes, dia = fecha.split("-")
@@ -64,7 +82,12 @@ def convertir_fecha_hora(f: str) -> str:
 
 tiempo: str = "2023-11-13T11:40:05"
 print(f"La hora en otro formato es {convertir_fecha_hora(tiempo)}!")
+```
+## Ejercicio 8
 
+*Lea una línea con las notas de un alumno con el siguiente formato: "alumno: c1 c2 fi". Realice una función que reciba ese texto y nos devuelva dos valores: el nombre del alumno y su nota final (puede usar funciones auxiliares). Para calcular la nota final del alumno, wf = (10 - 0.15*c1 - 0.25*c2)/10 y después sumar todas las notas ponderadas: f*wf + 0.15*c1 + 0.25*c2.*
+
+```python
 def calcular_nota(t: str) -> (str, float):
     # Separar nombre y las notas
     nombre, notas = t.split(":")
@@ -82,7 +105,14 @@ def calcular_nota(t: str) -> (str, float):
 texto: str = "Tony Stark: 8 7 9.4"
 nombre, nota = calcular_nota(texto)
 print(f"El alumno {nombre} obtuno {round(nota,2)} como nota final")
+```
 
+
+## Ejercicio 9
+
+*Función `suma_numeros_encontrados()` que recibe  como parámetro una cadena caracteres con números pero que pueden estar separados por  cualquier otro carácter y devuelve la suma de todos  ellos. Así, por ejemplo, si recibe "Debe 10€ de café y 20€ de la habitación y algo (¿30€?) de propina" devuelve el número 60.*
+
+```python
 def quitar_letras(t:str) -> str:
     t2 = ""
     for letra in t:
@@ -105,35 +135,12 @@ def sumar(l: list) -> float:
         suma += v
     return suma
 
-def suma_numeros(t: str) -> float:
+def suma_numeros_encontrados(t: str) -> float:
     t2: str = quitar_letras(t)
     lista: list = convertir_a_numeros(t2)
     suma = sumar(lista)
     return suma
     
 texto: str = "Debe 10 euros y 20 € de la habitación y ¿30? de propina"
-print(f"La suma de los números en '{texto}' es {suma_numeros(texto)}")
-
+print(f"La suma de los números en '{texto}' es {suma_numeros_encontrados(texto)}")
 ```
-
-## Ejercicio corto: Conversor de fechas
-*Hacer una función que separe en los distintos números una fecha dada en formato estándar: "2021-11-22", y devuelva la misma fecha como cadena en formato español: "22/11/2021"*
-
-[[Ver código](t6e02.convertir_fecha.py)]
-
-## Ejercicio corto: Conversor de fechas-hora
-*Dada la fecha hora con formato estándar así: "2021-11-22T12:30:01" devolver la cadena: "22/11/2021 12h 30m 01s"*
-
-[[Ver código](t6e03.convertir_fecha_hora.py)]
-
-## Ejercicio 8
-
-*Lea una línea con las notas de un alumno con el siguiente formato: "alumno: c1 c2 fi". Realice una función que reciba ese texto y nos devuelva dos valores: el nombre del alumno y su nota final (puede usar funciones auxiliares). Para calcular la nota final del alumno, wf = (10 - 0.15*c1 - 0.25*c2)/10 y después sumar todas las notas ponderadas: f*wf + 0.15*c1 + 0.25*c2.*
-
-[[Ver código](t6e11.nota_final.py)]
-
-## Ejercicio 9
-
-*Función `suma_numeros_encontrados()` que recibe  como parámetro una cadena caracteres con números pero que pueden estar separados por  cualquier otro carácter y devuelve la suma de todos  ellos. Así, por ejemplo, si recibe "Debe 10€ de café y 20€ de la habitación y algo (¿30€?) de propina" devuelve el número 60.*
-
-[[Ver código](t6e12.suma_num_en_texto.py)]
