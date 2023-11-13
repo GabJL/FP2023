@@ -24,10 +24,14 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 11 (23/10)](clases/clase11/clase11.md): Procedimientos. Ejercicios.
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Funciones que devuelven múltiples parámetros. Diseño de Funciones.
 
-### Clase 5:
+### Tema 5:
 * [Clase 13 (06/11)](clases/clase13/clase13.md): Introducción al conceptos de listas. Creación y recorridos.
 * [Clase 14 (07/11)](clases/clase14/clase14.md): Ejercicios de recorridos. Cómo modificar las listas.
 * [Clase 15 (08/11)](clases/clase15/clase15.md): Ejercicios avanzados sobre listas.
+
+### Tema 6:
+* [Clase 16 (13/11)](clases/clase16/clase16.md): El tipo string (`str`). Operaciones sobre string: `split` y `join`. Texto con formato (`f-string`)
+
 
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
