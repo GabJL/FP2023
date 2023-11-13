@@ -1,4 +1,4 @@
-# Clase 16 (9 de noviembre de 2022)
+# Clase 16 (13 de noviembre de 2023)
 
 En esta clase hemos repasado el tipo string. Luego se mostraron algunas operaciones interesantes sobre string, haciendo especial hincapié en `split` (aunque también se vió `join` y los `f-string`).
 
