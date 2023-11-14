@@ -46,5 +46,6 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Práctica 3](prácticas/practica03.md): Sentencias de Iteración (I)
 * [Práctica 4](prácticas/practica04.md): Sentencias de Iteración (II)
 * [Práctica 5](prácticas/practica05.md): Funciones
+* [Práctica 6](prácticas/practica06.md): Listas (y funciones)
 
 
