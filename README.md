@@ -31,7 +31,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 6:
 * [Clase 16 (13/11)](clases/clase16/clase16.md): El tipo string (`str`). Operaciones sobre string: `split` y `join`. Texto con formato (`f-string`)
-
+* [Clase 17 (20/11)](clases/clase17/clase17.md): Ejercicios de strings.
 
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
