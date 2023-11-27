@@ -33,6 +33,9 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 16 (13/11)](clases/clase16/clase16.md): El tipo string (`str`). Operaciones sobre string: `split` y `join`. Texto con formato (`f-string`)
 * [Clase 17 (20/11)](clases/clase17/clase17.md): Ejercicios de strings.
 
+### Tema 7:
+* [Clase 18 (27/11)](clases/clases18/clase18.md): Concepto y uso de diccionarios. Creación de diccionarios.
+
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
 * [Clase Repaso T1-3 (30/10)](clases/repaso/repaso1.md): Ejercicios de parciales previos de los temas 1-3.
