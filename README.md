@@ -34,7 +34,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 17 (20/11)](clases/clase17/clase17.md): Ejercicios de strings.
 
 ### Tema 7:
-* [Clase 18 (27/11)](clases/clases18/clase18.md): Concepto y uso de diccionarios. Creación de diccionarios.
+* [Clase 18 (27/11)](clases/clase18/clase18.md): Concepto y uso de diccionarios. Creación de diccionarios.
 
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
