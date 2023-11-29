@@ -1,0 +1,128 @@
+1. UD Almería, Rayo Vallecano, 0-2
+1. Athletic Club de Bilbao, Real Madrid CF, 0-2
+1. Club Atlético de Madrid, Granada CF, 3-1
+1. RC Celta, CA Osasuna, 0-2
+1. Sevilla FC, Valencia CF, 1-2
+1. UD Las Palmas, RCD Mallorca, 1-1
+1. Getafe CF, FC Barcelona, 0-0
+1. Villarreal CF, Real Betis Balompié, 1-2
+1. Real Sociedad de Fútbol, Girona FC, 1-1
+1. Cádiz CF, CD Alavés, 1-0
+2. UD Almería, Real Madrid CF, 1-3
+2. FC Barcelona, Cádiz CF, 2-0
+2. RCD Mallorca, Villarreal CF, 0-1
+2. Granada CF, Rayo Vallecano, 0-2
+2. CD Alavés, Sevilla FC, 4-3
+2. CA Osasuna, Athletic Club de Bilbao, 0-2
+2. Real Betis Balompié, Club Atlético de Madrid, 0-0
+2. Real Sociedad de Fútbol, RC Celta, 1-1
+2. Girona FC, Getafe CF, 3-0
+2. Valencia CF, UD Las Palmas, 1-0
+3. Athletic Club de Bilbao, Real Betis Balompié, 4-2
+3. RC Celta, Real Madrid CF, 0-1
+3. Granada CF, RCD Mallorca, 3-2
+3. UD Las Palmas, Real Sociedad de Fútbol, 0-0
+3. Cádiz CF, UD Almería, 1-1
+3. Rayo Vallecano, Club Atlético de Madrid, 0-7
+3. Villarreal CF, FC Barcelona, 3-4
+3. Sevilla FC, Girona FC, 1-2
+3. Valencia CF, CA Osasuna, 1-2
+3. Getafe CF, CD Alavés, 1-0
+4. UD Almería, RC Celta, 2-3
+4. Real Betis Balompié, Rayo Vallecano, 1-0
+4. Cádiz CF, Villarreal CF, 3-1
+4. Girona FC, UD Las Palmas, 1-0
+4. CD Alavés, Valencia CF, 1-0
+4. RCD Mallorca, Athletic Club de Bilbao, 0-0
+4. CA Osasuna, FC Barcelona, 1-2
+4. Real Madrid CF, Getafe CF, 2-1
+4. Real Sociedad de Fútbol, Granada CF, 5-3
+5. Athletic Club de Bilbao, Cádiz CF, 3-0
+5. FC Barcelona, Real Betis Balompié, 5-0
+5. RC Celta, RCD Mallorca, 0-1
+5. Getafe CF, CA Osasuna, 3-2
+5. Real Madrid CF, Real Sociedad de Fútbol, 2-1
+5. Villarreal CF, UD Almería, 2-1
+5. Valencia CF, Club Atlético de Madrid, 3-0
+5. Granada CF, Girona FC, 2-4
+5. Sevilla FC, UD Las Palmas, 1-0
+5. Rayo Vallecano, CD Alavés, 2-0
+6. UD Almería, Valencia CF, 2-2
+6. Club Atlético de Madrid, Real Madrid CF, 3-1
+6. FC Barcelona, RC Celta, 3-2
+6. Real Betis Balompié, Cádiz CF, 1-1
+6. Girona FC, RCD Mallorca, 5-3
+6. CA Osasuna, Sevilla FC, 0-0
+6. Rayo Vallecano, Villarreal CF, 1-1
+6. CD Alavés, Athletic Club de Bilbao, 0-2
+6. Real Sociedad de Fútbol, Getafe CF, 4-3
+6. UD Las Palmas, Granada CF, 1-0
+7. Athletic Club de Bilbao, Getafe CF, 2-2
+7. Cádiz CF, Rayo Vallecano, 0-0
+7. Sevilla FC, UD Almería, 5-1
+7. CA Osasuna, Club Atlético de Madrid, 0-2
+7. RCD Mallorca, FC Barcelona, 2-2
+7. Granada CF, Real Betis Balompié, 1-1
+7. Villarreal CF, Girona FC, 1-2
+7. Valencia CF, Real Sociedad de Fútbol, 0-1
+7. Real Madrid CF, UD Las Palmas, 2-0
+7. RC Celta, CD Alavés, 1-1
+8. UD Almería, Granada CF, 3-3
+8. Club Atlético de Madrid, Cádiz CF, 3-2
+8. FC Barcelona, Sevilla FC, 1-0
+8. Real Betis Balompié, Valencia CF, 3-0
+8. Getafe CF, Villarreal CF, 0-0
+8. Girona FC, Real Madrid CF, 0-3
+8. CD Alavés, CA Osasuna, 0-2
+8. Real Sociedad de Fútbol, Athletic Club de Bilbao, 3-0
+8. UD Las Palmas, RC Celta, 2-1
+8. Rayo Vallecano, RCD Mallorca, 2-2
+9. Club Atlético de Madrid, Real Sociedad de Fútbol, 2-1
+9. Cádiz CF, Girona FC, 0-1
+9. RC Celta, Getafe CF, 2-2
+9. RCD Mallorca, Valencia CF, 1-1
+9. CD Alavés, Real Betis Balompié, 1-1
+9. Athletic Club de Bilbao, UD Almería, 3-0
+9. Granada CF, FC Barcelona, 2-2
+9. Real Madrid CF, CA Osasuna, 4-0
+9. Sevilla FC, Rayo Vallecano, 2-2
+9. Villarreal CF, UD Las Palmas, 1-2
+10. UD Las Palmas, Rayo Vallecano, 0-1
+10. Girona FC, UD Almería, 5-2
+10. FC Barcelona, Athletic Club de Bilbao, 1-0
+10. RC Celta, Club Atlético de Madrid, 0-3
+10. Getafe CF, Real Betis Balompié, 1-1
+10. Valencia CF, Cádiz CF, 2-0
+10. Real Sociedad de Fútbol, RCD Mallorca, 1-0
+10. Sevilla FC, Real Madrid CF, 1-1
+10. CA Osasuna, Granada CF, 2-0
+10. Villarreal CF, CD Alavés, 1-1
+11. UD Almería, UD Las Palmas, 1-2
+11. Athletic Club de Bilbao, Valencia CF, 2-2
+11. FC Barcelona, Real Madrid CF, 1-2
+11. Real Betis Balompié, CA Osasuna, 2-1
+11. Cádiz CF, Sevilla FC, 2-2
+11. Rayo Vallecano, Real Sociedad de Fútbol, 2-2
+11. Granada CF, Villarreal CF, 2-3
+11. Girona FC, RC Celta, 1-0
+11. RCD Mallorca, Getafe CF, 0-0
+11. Club Atlético de Madrid, CD Alavés, 2-1
+12. Real Betis Balompié, RCD Mallorca, 2-0
+12. RC Celta, Sevilla FC, 1-1
+12. CD Alavés, UD Almería, 1-0
+12. Villarreal CF, Athletic Club de Bilbao, 2-3
+12. UD Las Palmas, Club Atlético de Madrid, 2-1
+12. Real Sociedad de Fútbol, FC Barcelona, 0-1
+12. Getafe CF, Cádiz CF, 1-0
+12. CA Osasuna, Girona FC, 2-4
+12. Real Madrid CF, Rayo Vallecano, 0-0
+12. Valencia CF, Granada CF, 1-0
+13. UD Almería, Real Sociedad de Fútbol, 1-3
+13. Athletic Club de Bilbao, RC Celta, 4-3
+13. Club Atlético de Madrid, Villarreal CF, 3-1
+13. Real Madrid CF, Valencia CF, 5-1
+13. Sevilla FC, Real Betis Balompié, 1-1
+13. Granada CF, Getafe CF, 1-1
+13. Rayo Vallecano, Girona FC, 1-2
+13. CA Osasuna, UD Las Palmas, 1-1
+13. FC Barcelona, CD Alavés, 2-1
