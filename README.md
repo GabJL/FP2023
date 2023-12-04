@@ -36,6 +36,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 7:
 * [Clase 18 (27/11)](clases/clase18/clase18.md): Concepto y uso de diccionarios. Creación de diccionarios.
 * [Clase 19 (28/11)](clases/clase19/clase19.md): Ejercicios de creación de diccionarios. Listas de Diccionario. Ejercicio de Spotify.
+* [Clase 20 (04/12)](clases/clase20/clase20.md): Cálculo de máximo/mínimo en diccionarios. Diccionarios de Listas. Ejercicio de Películas.
 
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
