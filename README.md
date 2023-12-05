@@ -38,6 +38,9 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 19 (28/11)](clases/clase19/clase19.md): Ejercicios de creación de diccionarios. Listas de Diccionario. Ejercicio de Spotify.
 * [Clase 20 (04/12)](clases/clase20/clase20.md): Cálculo de máximo/mínimo en diccionarios. Diccionarios de Listas. Ejercicio de Películas.
 
+### Tema 8:
+* [Clase 21 (05/12)](clases/clase21/clase21.md): Introducción a ficheros. Ejercicios de ficheros.
+
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
 * [Clase Repaso T1-3 (30/10)](clases/repaso/repaso1.md): Ejercicios de parciales previos de los temas 1-3.
