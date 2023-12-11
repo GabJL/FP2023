@@ -40,6 +40,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 8:
 * [Clase 21 (05/12)](clases/clase21/clase21.md): Introducción a ficheros. Ejercicios de ficheros.
+* [Clase 22 (11/12)](clases/clase22/clase22.md): Ejercicios de exámens previos.
 
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
