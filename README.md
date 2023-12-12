@@ -58,5 +58,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Práctica 6](prácticas/practica06.md): Listas (y funciones)
 * [Práctica 7](prácticas/practica07.md): String
 * [Práctica 8](prácticas/practica08.md): Diccionarios y listas de diccionarios
+* [Práctica 9](prácticas/practica09.md): Ficheros.
+
 
 
