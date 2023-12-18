@@ -238,3 +238,57 @@ desarrollar un programa que analice los datos y los corrija de la siguiente mane
 
 *El programa recibirá una lista de datos y devolverá la lista corregida o una lista vacía en caso de que los datos sean incorrectos. Se pueden construir cuantas otras funciones auxiliares se vean necesarias. Ejemplos: `[-1, -1, -1, -1, 90, 100, 160, -1, -1, 150, -1, -1]` devolvería: `[90, 100, 160, 155, 152.5, 150]`. Si se recibe `[-1,-1]` o `[100,-1,-1,-1, 100, -1]` se devuelve `[]`*
 
+```python
+def quitar_primeros_menos_1(l: list) -> list:
+    # Buscamos la primera posición que no es -1
+    i: int = 0
+    while i < len(l) and l[i] == -1:
+        i += 1
+    # Nos quedamos con el trozo de la lista que empieza en esa posición
+    if i >= len(l):
+        l = []
+    else:
+        l = l[i:]
+    return l
+
+def quitar_ultimos_menos_1(l: list) -> list:
+    i: int = -1
+    while i >= -len(l) and l[i] == -1:
+        i -= 1
+    if i < -len(l):
+        l = []
+    else:
+        l = l[:i+1]
+    return l
+
+def corregir_serie(l: list) -> list:
+    l = quitar_primeros_menos_1(l)
+    l = quitar_ultimos_menos_1(l)
+    
+    lista_final: list = []
+    error = False
+    pos: int = 0
+    while pos < len(l) and not error:
+        if l[pos] == -1 and l[pos+1] == -1 and l[pos+2] == -1:
+            error = True
+        else:
+            if l[pos] != -1:
+                lista_final.append(l[pos])
+            else:
+                anterior = lista_final[-1]
+                if l[pos+1] != -1:
+                    siguiente = l[pos+1]
+                else:
+                    siguiente = l[pos+2]
+                actual = anterior + (siguiente - anterior)/2
+                lista_final.append(actual)
+            pos += 1
+        if error:
+            lista_final = []
+    return lista_final
+
+print(corregir_serie([-1, -1, -1, -1, 90, 100, 160, -1, -1, 150, -1, -1]))
+print(corregir_serie([-1,-1]))
+print(corregir_serie([100,-1,-1,-1, 100, -1]))        
+```
+
