@@ -45,6 +45,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Repaso
 * [Clase 12 (25/10)](clases/clase12/clase12.md): Repaso (ejercicios de parciales).
 * [Clase Repaso T1-3 (30/10)](clases/repaso/repaso1.md): Ejercicios de parciales previos de los temas 1-3.
+  [Clase Repaso Final (12/12)](clases/repaso/repaso2.md): Ejercicios de parciales previos y convocatorias ordinarias.
 
 ## Evaluación
 * [Primer parcial (31/10)](exámenes/p1.md): Primer parcial de temas 1-3.
