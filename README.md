@@ -49,6 +49,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ## Evaluación
 * [Primer parcial (31/10)](exámenes/p1.md): Primer parcial de temas 1-3.
+* [Segundo parcial (20/12)](exámenes/p2.md): Segundo parcial.
   
 ## Prácticas
 * [Práctica 1](prácticas/practica01.md): Repasar conceptos básicos de python como son los identificadores, las variables, los tipos o el uso de expresiones básicas.
