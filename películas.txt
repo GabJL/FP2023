@@ -1,0 +1,14 @@
+arya - the matrix - 2:30 # 9
+arya - blade runner - 2:10 # 7
+jon - star wars - 2:00 # 8
+jon - the lord of the rings - 3:00 # 6
+daenerys - harry potter - 2:15 # 7
+daenerys - star trek - 2:40 # 5
+daenerys - star wars - 2:00 # 9
+tyrion - the lord of the rings - 3:00 # 8
+tyrion - the hobbit - 2:45 # 6
+cersei - the avengers - 2:30 # 6
+jaime - back to the future - 2:20 # 9
+jaime- the terminator - 2:15 # 8
+samwell - star trek - 2:40 # 7
+samwell - harry potter - 2:15 # 7
